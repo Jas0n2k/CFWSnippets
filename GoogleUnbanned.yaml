@@ -1,0 +1,11 @@
+payload:
+ #> Google UNBANNED
+ - DOMAIN-SUFFIX,gstatic.cn
+ - DOMAIN-SUFFIX,google.cn
+ - DOMAIN,www.chromestatus.com
+ - DOMAIN,www.googletagmanager.com
+ - DOMAIN,clientservices.googleapis.com
+ - DOMAIN,tools.google.com
+ - DOMAIN,safebrowsing.googleapis.com
+ - DOMAIN-KEYWORD,-sn-ni57rn7d.gvt1.com
+ - DOMAIN,redirector.gvt1.com
