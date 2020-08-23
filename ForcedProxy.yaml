@@ -1,0 +1,23 @@
+payload:
+  # WebStoraging
+  ## Onedrive
+  - DOMAIN,onedrive.live.com
+  ## Yandex
+  - DOMAIN-KEYWORD,yandex
+  - DOMAIN-KEYWORD,yadro
+  ## Dropbox
+  - DOMAIN-SUFFIX,dropbox.com
+  - DOMAIN-SUFFIX,dropboxstatic.com
+  ## Mega
+  - DOMAIN-SUFFIX,mega.nz
+  
+  # Steam
+  - DOMAIN-SUFFIX,steamcommunity.com
+  # Microsoft
+  - DOMAIN,install.appcenter.ms
+  # Github
+  - DOMAIN,gist.github.com
+  - DOMAIN,github-production-release-asset-2e65be.s3.amazonaws.com
+  # Korean
+  - DOMAIN-SUFFIX,daum.net
+  - DOMAIN-SUFFIX,naver.com

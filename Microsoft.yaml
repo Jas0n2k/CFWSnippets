@@ -1,22 +1,17 @@
 payload:
-  # > Microsoft
   - DOMAIN-SUFFIX,windows.net
   - DOMAIN-SUFFIX,windows.com
   - DOMAIN-SUFFIX,windowsupdate.com
   - DOMAIN-SUFFIX,microsoft.com
   - DOMAIN-SUFFIX,msecnd.net
-  - DOMAIN-SUFFIX,msocdn.com
   - DOMAIN-SUFFIX,microsoftonline.com
-  - DOMAIN-SUFFIX,office.com
   - DOMAIN-SUFFIX,bing.com
-  - DOMAIN-SUFFIX,office.net
-  - DOMAIN-SUFFIX,office365.com
-  - DOMAIN-SUFFIX,onedrive.com
   - DOMAIN-SUFFIX,outlook.com
   - DOMAIN-SUFFIX,s-microsoft.com
   - DOMAIN-SUFFIX,visualstudio.com
   - DOMAIN-SUFFIX,vsassets.io
   - DOMAIN-SUFFIX,live.com
+  - DOMAIN-SUFFIX,live.net
   - DOMAIN-SUFFIX,msauth.net
   - DOMAIN-SUFFIX,msauthimages.net
   - DOMAIN-SUFFIX,sharepoint.com
@@ -25,6 +20,7 @@ payload:
   - DOMAIN-SUFFIX,msn.com
   - DOMAIN-SUFFIX,azure.com
   - DOMAIN-SUFFIX,azure.net
+  - DOMAIN-SUFFIX,appcenter.ms
   - DOMAIN-SUFFIX,aka.ms
   - DOMAIN-SUFFIX,onestore.ms
   - DOMAIN-SUFFIX,sfx.ms
@@ -32,7 +28,15 @@ payload:
   - DOMAIN-SUFFIX,ch9.ms
   - DOMAIN-SUFFIX,scorecardresearch.com
   - DOMAIN-SUFFIX,skype.com
-  #AzureCDN
+  # Office
+  - DOMAIN-SUFFIX,msocdn.com
+  - DOMAIN-SUFFIX,office.com
+  - DOMAIN-SUFFIX,office.net
+  - DOMAIN-SUFFIX,office365.com
+  # OneDrive
+  - DOMAIN-SUFFIX,1drv.com
+  - DOMAIN-SUFFIX,onedrive.com
+  # AzureCDN
   - DOMAIN-SUFFIX,aspnetcdn.com
   - DOMAIN-SUFFIX,azureedge.net
   - DOMAIN-SUFFIX,azure.cn
@@ -41,6 +45,6 @@ payload:
   - DOMAIN-KEYWORD,-microsoft-com.akamaized.net
   - DOMAIN,img-s-msn-com.akamaized.net
   
-  #Others
+  # Others
   - DOMAIN,mscom.demdex.net
   - DOMAIN,microsoftmscompoc.tt.omtrdc.net

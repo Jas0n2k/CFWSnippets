@@ -9,3 +9,4 @@ payload:
  - DOMAIN,safebrowsing.googleapis.com
  - DOMAIN-KEYWORD,-sn-ni57rn7d.gvt1.com
  - DOMAIN,redirector.gvt1.com
+ - DOMAIN-SUFFIX,fonts.gstatic.com

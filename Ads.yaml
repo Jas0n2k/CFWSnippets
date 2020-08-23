@@ -1,0 +1,27 @@
+payload:
+  # CrashAnalysis
+  - DOMAIN-SUFFIX,crashlytics.com
+  # Trackers
+  - DOMAIN-SUFFIX,marketo.net
+  - DOMAIN-SUFFIX,liveperson.com
+  - DOMAIN-SUFFIX,rtbasia.com
+  - DOMAIN-SUFFIX,symcb.com
+  - DOMAIN-SUFFIX,symcd.com
+  - DOMAIN,track.tiara.daum.net
+  - DOMAIN-SUFFIX,nelreports.net
+  - DOMAIN-SUFFIX,branch.io
+
+  # Marketing
+  - DOMAIN-SUFFIX,pardot.com
+  - DOMAIN-SUFFIX,drift.com
+  - DOMAIN-SUFFIX,driftcdn.com
+  - DOMAIN-SUFFIX,uservoice.com
+  - DOMAIN,uservoice.zendesk.com
+  - DOMAIN-SUFFIX,omtrdc.net
+  - DOMAIN-KEYWORD,salesforceliveagent
+  - DOMAIN-SUFFIX,adjust.com
+  - DOMAIN-KEYWORD,storyblok
+  # Ads
+  - DOMAIN-SUFFIX,aaxads.com
+  - DOMAIN-SUFFIX,g.doubleclick.net
+  - DOMAIN,adservice.google.com
