@@ -1,0 +1,52 @@
+#Domains listed in this file have slow connections.
+
+payload:
+  - DOMAIN-KEYWORD,github
+  - DOMAIN-SUFFIX,lastpass.com
+  - DOMAIN-SUFFIX,bit.ly
+  - DOMAIN-SUFFIX,crashlytics.com
+  - DOMAIN,fonticons-free-fonticons.netdna-ssl.com
+  - DOMAIN-SUFFIX,stripe.com
+  - DOMAIN-SUFFIX,stripe.network
+  - DOMAIN-SUFFIX,v2ex.com
+  - DOMAIN-SUFFIX,adblockplus.org
+  - DOMAIN-SUFFIX,oracle.com
+  - DOMAIN-SUFFIX,chatango.com
+  #Python
+  - DOMAIN-SUFFIX,pythonhosted.org
+  - DOMAIN-SUFFIX,pypi.org
+  - DOMAIN-SUFFIX,python.org
+  #Adobe
+  - DOMAIN-KEYWORD,adobe
+  #Nvidia
+  - DOMAIN-SUFFIX,geforce.com
+  - DOMAIN-SUFFIX,nvidia.com
+  - DOMAIN-SUFFIX,nvidiagrid.net
+  #WebCodes
+  - DOMAIN,travis-ci.org
+  - DOMAIN-SUFFIX,webflow.com
+  #Assets
+  - DOMAIN-SUFFIX,zdassets.com
+  - DOMAIN-SUFFIX,fonts.net
+  - DOMAIN-SUFFIX,jquery.com
+  - DOMAIN-SUFFIX,driftt.com
+  - DOMAIN-SUFFIX,mapbox.com
+  - DOMAIN,assets.website-files.com
+  - DOMAIN,assets.adobedtm.com
+  - DOMAIN-SUFFIX,pstatic.net
+  # CDN
+  - DOMAIN,accdn.lpsnmedia.net
+  - DOMAIN-SUFFIX,bootstrapcdn.com
+  - DOMAIN,cdnjs.cloudflare.com
+  - DOMAIN,cdn.ziffstatic.com
+  - DOMAIN,cdn.embedly.com
+  - DOMAIN,cdn.jsdelivr.net
+  - DOMAIN-SUFFIX,disquscdn.com
+  - DOMAIN,cdn.cookielaw.org
+  - DOMAIN,vjs.zencdn.net
+
+  # CloudFront
+  - DOMAIN,d7l9sro0h1dem.cloudfront.net
+  - DOMAIN,d3e54v103j8qbb.cloudfront.net
+  # Akamai
+  - DOMAIN,embedwistia-a.akamaihd.net

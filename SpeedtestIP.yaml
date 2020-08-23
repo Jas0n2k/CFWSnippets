@@ -1,0 +1,24 @@
+payload:
+  # -> IP
+  - DOMAIN-SUFFIX,ipip.net
+  - DOMAIN-SUFFIX,ip138.com
+  - DOMAIN-SUFFIX,tool.lu
+  - DOMAIN-SUFFIX,ip.sb
+  - DOMAIN-SUFFIX,ipify.org
+  - DOMAIN-SUFFIX,ip2location.com
+  - DOMAIN-SUFFIX,ipchaxun.com
+  - DOMAIN-SUFFIX,dnsdblookup.com
+  - DOMAIN-SUFFIX,ipaddress.com
+  - DOMAIN-SUFFIX,ip.la
+  - DOMAIN-SUFFIX,ip-cdn.com
+  - DOMAIN-KEYWORD,ipv6-test
+  - DOMAIN-KEYWORD,test-ipv6
+  - DOMAIN-SUFFIX,whatismyip.com
+  - DOMAIN,ip.istatmenus.app
+  # -> Speedtest
+  - DOMAIN-KEYWORD,speedtest
+  - DOMAIN-SUFFIX,ooklaserver.net
+  - DOMAIN-SUFFIX,cdnst.net
+  - DOMAIN,fast.wistia.com
+  - DOMAIN-SUFFIX,netspeedtestmaster.com
+  - DOMAIN,speedtest.macpaw.com
