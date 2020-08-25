@@ -16,8 +16,19 @@ payload:
   - DOMAIN,steamstore-a.akamaihd.net
   - DOMAIN,steamcdn-a.akamaihd.net
 
-  ## Epic
+  ## Epic & Unreal Engine
   - DOMAIN-SUFFIX,epicgames.com
+  - DOMAIN-SUFFIX,paragon.com
+  - DOMAIN-SUFFIX,helpshift.com
+  - DOMAIN-SUFFIX,unrealengine.com
+
 
   ## Blizzard
   - DOMAIN-SUFFIX,battle.net
+  - DOMAIN-SUFFIX,battlenet.com
+  - DOMAIN-SUFFIX,blizzard.com
+
+  ## Sony
+  - DOMAIN-KEYWORD,playstation
+  - DOMAIN-SUFFIX,sony.com
+  - DOMAIN-SUFFIX,sonyentertainmentnetwork.com

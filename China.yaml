@@ -3,8 +3,8 @@ payload:
   # > 360
   - DOMAIN-SUFFIX,qhres.com
   - DOMAIN-SUFFIX,qhimg.com
+  - DOMAIN-SUFFIX,360.com
   # > Alibaba
-  # USER-AGENT,%E4%BC%98%E9%85%B7*
   - DOMAIN-SUFFIX,alibaba.com
   - DOMAIN-SUFFIX,alibabausercontent.com
   - DOMAIN-SUFFIX,alicdn.com
@@ -51,6 +51,7 @@ payload:
   - DOMAIN-SUFFIX,jd.hk
   - DOMAIN-SUFFIX,jdpay.com
   - DOMAIN-SUFFIX,360buyimg.com
+  - DOMAIN-SUFFIX,360safe.com
   
   # > Kingsoft
   - DOMAIN-SUFFIX,iciba.com
@@ -72,8 +73,6 @@ payload:
   - DOMAIN-SUFFIX,xiaomi.net
 
   # > NetEase
-  # USER-AGENT,NeteaseMusic*
-  # USER-AGENT,%E7%BD%91%E6%98%93%E4%BA%91%E9%9F%B3%E4%B9%90*
   - DOMAIN-SUFFIX,163.com
   - DOMAIN-SUFFIX,126.com
   - DOMAIN-SUFFIX,126.net
@@ -87,6 +86,7 @@ payload:
   - DOMAIN-SUFFIX,sina.com
   - DOMAIN-SUFFIX,weibo.com
   - DOMAIN-SUFFIX,weibocdn.com
+
   # > Sohu
   - DOMAIN-SUFFIX,sohu.com
   - DOMAIN-SUFFIX,sohucs.com
@@ -97,9 +97,6 @@ payload:
   - DOMAIN-SUFFIX,sogou.com
   - DOMAIN-SUFFIX,sogoucdn.com
   # > Tencent
-  # USER-AGENT,MicroMessenger%20Client
-  # USER-AGENT,WeChat*
-  # USER-AGENT,%E4%BC%81%E4%B8%9A%E5%BE%AE%E4%BF%A1*
   - DOMAIN-SUFFIX,gtimg.com
   - DOMAIN-SUFFIX,idqqimg.com
   - DOMAIN-SUFFIX,igamecj.com
@@ -115,6 +112,7 @@ payload:
   - DOMAIN-SUFFIX,tenpay.com
   - DOMAIN-SUFFIX,wechat.com
   - DOMAIN,file-igamecj.akamaized.net
+  - DOMAIN-SUFFIX,ovscdns.com
   # Wanmei
   - DOMAIN-SUFFIX,wanmei.com
   # > CDN
@@ -125,8 +123,8 @@ payload:
   - DOMAIN-SUFFIX,ourdvs.com
   - DOMAIN-SUFFIX,staticdn.net
   - DOMAIN-SUFFIX,wangsu.com
-  - DOMAIN,cdn.staticfile.org
-  - DOMAIN,cdn.jsdelivr.net
+  - DOMAIN-SUFFIX,staticfile.org
+  - DOMAIN-SUFFIX,jsdelivr.net
   - DOMAIN,cdp.cloud.unity3d.com
   - DOMAIN-SUFFIX,eccdnx.com
   - DOMAIN-SUFFIX,bscstorage.net

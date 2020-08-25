@@ -48,3 +48,4 @@ payload:
   # Others
   - DOMAIN,mscom.demdex.net
   - DOMAIN,microsoftmscompoc.tt.omtrdc.net
+  - DOMAIN-SUFFIX,s-msft.com
