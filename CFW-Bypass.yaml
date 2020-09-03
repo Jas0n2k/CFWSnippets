@@ -14,7 +14,6 @@ bypass:
   - "*.公司"
   - "*.网络"
   # 中国国内常见域名关键词直连
-  - "*-cn*"
   - "*360buy*"
   - "*alicdn*"
   - "*alimama*"
@@ -189,6 +188,7 @@ bypass:
   - "*.xiaomi.com"
   - "*.xiaomi.net"
   - "*.xiaomicp.com"
+  - "*.miwifi.com"
   # NetEase
   - "*.126.com"
   - "*.126.net"
@@ -226,16 +226,16 @@ bypass:
   - "*.sohurdc.com"
   - "*.v-56.com"
   # 网易战网
-  - "*battlenet.com.cn"
+#  - "*battlenet.com.cn"
   # Spark
   - "*.amplitude.com"
   - "*.firebaseio.com"
   - "*.hockeyapp.net"
   - "*.smartmailcloud.com"
   # SteamCN
-  - "*.csgo.wmsj.cn"
+#  - "*.csgo.wmsj.cn"
   - "*.dl.steam.ksyna.com"
-  - "*.dota2.wmsj.cn"
+#  - "*.dota2.wmsj.cn"
   - "*.st.dl.bscstorage.net"
   - "*.st.dl.eccdnx.com"
 # - "*.st.dl.pinyuncloud.com"

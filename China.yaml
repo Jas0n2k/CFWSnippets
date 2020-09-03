@@ -71,6 +71,7 @@ payload:
   - DOMAIN-SUFFIX,miwifi.com
   - DOMAIN-SUFFIX,xiaomi.com
   - DOMAIN-SUFFIX,xiaomi.net
+  - DOMAIN-SUFFIX,miwifi.com
 
   # > NetEase
   - DOMAIN-SUFFIX,163.com
