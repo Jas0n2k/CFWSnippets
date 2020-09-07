@@ -2,6 +2,7 @@ payload:
   # WebStoraging
   ## Onedrive
   - DOMAIN,onedrive.live.com
+  - DOMAIN,skyapi.onedrive.live.com
   ## Yandex
   - DOMAIN-KEYWORD,yandex
   - DOMAIN-KEYWORD,yadro

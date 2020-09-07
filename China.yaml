@@ -1,10 +1,11 @@
 payload:
-  # China Area Network
   # > 360
   - DOMAIN-SUFFIX,qhres.com
   - DOMAIN-SUFFIX,qhimg.com
+  - DOMAIN-SUFFIX,360.com
+  - DOMAIN-SUFFIX,ludashi.com
   # > Alibaba
-  # USER-AGENT,%E4%BC%98%E9%85%B7*
+  - DOMAIN-SUFFIX,ourdvs.com
   - DOMAIN-SUFFIX,alibaba.com
   - DOMAIN-SUFFIX,alibabausercontent.com
   - DOMAIN-SUFFIX,alicdn.com
@@ -72,8 +73,6 @@ payload:
   - DOMAIN-SUFFIX,xiaomi.net
 
   # > NetEase
-  # USER-AGENT,NeteaseMusic*
-  # USER-AGENT,%E7%BD%91%E6%98%93%E4%BA%91%E9%9F%B3%E4%B9%90*
   - DOMAIN-SUFFIX,163.com
   - DOMAIN-SUFFIX,126.com
   - DOMAIN-SUFFIX,126.net
@@ -97,12 +96,8 @@ payload:
   - DOMAIN-SUFFIX,sogou.com
   - DOMAIN-SUFFIX,sogoucdn.com
   # > Tencent
-  # USER-AGENT,MicroMessenger%20Client
-  # USER-AGENT,WeChat*
-  # USER-AGENT,%E4%BC%81%E4%B8%9A%E5%BE%AE%E4%BF%A1*
   - DOMAIN-SUFFIX,gtimg.com
   - DOMAIN-SUFFIX,idqqimg.com
-  - DOMAIN-SUFFIX,igamecj.com
   - DOMAIN-SUFFIX,myapp.com
   - DOMAIN-SUFFIX,myqcloud.com
   - DOMAIN-SUFFIX,qq.com
@@ -111,70 +106,38 @@ payload:
   - DOMAIN-SUFFIX,qcloudimg.com
   - DOMAIN-SUFFIX,servicewechat.com
   - DOMAIN-SUFFIX,tencent.com
-  - DOMAIN-SUFFIX,tencent-cloud.net
   - DOMAIN-SUFFIX,tenpay.com
   - DOMAIN-SUFFIX,wechat.com
-  - DOMAIN,file-igamecj.akamaized.net
+  ## TecentCloud
+  - DOMAIN-SUFFIX,cdntip.com
+  - DOMAIN-SUFFIX,tencent-cloud.net
   # Wanmei
   - DOMAIN-SUFFIX,wanmei.com
+
   # > CDN
-  - DOMAIN-SUFFIX,ccgslb.com
-  - DOMAIN-SUFFIX,ccgslb.net
-  - DOMAIN-SUFFIX,chinanetcenter.com
-  - DOMAIN-SUFFIX,meixincdn.com
-  - DOMAIN-SUFFIX,ourdvs.com
+  ## > ChinaCache
+  - DOMAIN-KEYWORD,ccgslb
+  - DOMAIN-KEYWORD,chinacache
+  ## > ChinaNetCenter
+  - DOMAIN-KEYWORD,chinanetcenter
+  ## > MeixinCDN
+  - DOMAIN-KEYWORD,meixincdn
   - DOMAIN-SUFFIX,staticdn.net
   - DOMAIN-SUFFIX,wangsu.com
-  - DOMAIN,cdn.staticfile.org
-  - DOMAIN,cdn.jsdelivr.net
-  - DOMAIN,cdp.cloud.unity3d.com
+  ## > SteamCDN China
   - DOMAIN-SUFFIX,eccdnx.com
   - DOMAIN-SUFFIX,bscstorage.net
   - DOMAIN-SUFFIX,pinyuncloud.com
-
-  # Assets
-  - DOMAIN-SUFFIX,wistia.com
   
   # > Image Host
   - DOMAIN-SUFFIX,imgchr.com
   - DOMAIN-SUFFIX,ax1x.com
 
-  # > Private Tracker
-  - DOMAIN-SUFFIX,animebytes.tv
-  - DOMAIN-SUFFIX,awesome-hd.me
-  - DOMAIN-SUFFIX,broadcasthe.net
-  - DOMAIN-SUFFIX,chdbits.co
-  - DOMAIN-SUFFIX,classix-unlimited.co.uk
-  - DOMAIN-SUFFIX,empornium.me
-  - DOMAIN-SUFFIX,gazellegames.net
-  - DOMAIN-SUFFIX,hdchina.org
-  - DOMAIN-SUFFIX,hdsky.me
-  - DOMAIN-SUFFIX,hdhome.org
-  - DOMAIN-SUFFIX,hdbits.org
-  - DOMAIN-SUFFIX,icetorrent.org
-  - DOMAIN-SUFFIX,jpopsuki.eu
-  - DOMAIN-SUFFIX,keepfrds.com
-  - DOMAIN-SUFFIX,madsrevolution.net
-  - DOMAIN-SUFFIX,myanonamouse.net
-  - DOMAIN-SUFFIX,m-team.cc
-  - DOMAIN-SUFFIX,morethan.tv
-  - DOMAIN-SUFFIX,nanyangpt.com
-  - DOMAIN-SUFFIX,ncore.cc
-  - DOMAIN-SUFFIX,open.cd
-  - DOMAIN-SUFFIX,ourbits.club
-  - DOMAIN-SUFFIX,passthepopcorn.me
-  - DOMAIN-SUFFIX,privatehd.to
-  - DOMAIN-SUFFIX,pterclub.com
-  - DOMAIN-SUFFIX,redacted.ch
-  - DOMAIN-SUFFIX,springsunday.net
-  - DOMAIN-SUFFIX,tjupt.org
-  - DOMAIN-SUFFIX,totheglory.im
   # > Gov
   - DOMAIN-SUFFIX,china-consulate.org
   
   # > Other
   - DOMAIN-SUFFIX,cn
-  # - DOMAIN-SUFFIX,vmware.com
   - DOMAIN-SUFFIX,115.com
   - DOMAIN-SUFFIX,360in.com
   - DOMAIN-SUFFIX,51ym.me
@@ -245,6 +208,7 @@ payload:
   - DOMAIN-SUFFIX,linkedin.com
   - DOMAIN-SUFFIX,loli.net
   - DOMAIN-SUFFIX,luojilab.com
+
   - DOMAIN-SUFFIX,maoyan.com
   - DOMAIN-SUFFIX,maoyun.tv
   - DOMAIN-SUFFIX,meituan.com
@@ -290,5 +254,3 @@ payload:
   - DOMAIN-SUFFIX,zhihu.com
   - DOMAIN-SUFFIX,zhimg.com
   - DOMAIN-SUFFIX,zhuihd.com
-  - DOMAIN,download.jetbrains.com
-  - DOMAIN,images-cn.ssl-images-amazon.com

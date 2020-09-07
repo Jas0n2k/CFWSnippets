@@ -1,0 +1,12 @@
+payload:
+  # TencentOverseas
+  - DOMAIN,file-igamecj.akamaized.net
+  - DOMAIN-SUFFIX,igamecj.com
+  - DOMAIN-KEYWORD,proximabeta
+  - DOMAIN-SUFFIX,arenaofvalor.com
+  - DOMAIN-SUFFIX,gcloudcs.com
+  - DOMAIN-SUFFIX,DOMAIN,pubgmobile.com
+  - DOMAIN,hkconfig.gcloud.qq.com
+  - DOMAIN,idconfig.gcloud.qq.com
+  - DOMAIN,hk.api.unipay.qq.com
+  

@@ -1,0 +1,11 @@
+payload:
+  - DOMAIN,download.jetbrains.com
+  - DOMAIN,images-cn.ssl-images-amazon.com
+  # CDN
+  - DOMAIN,cdn.staticfile.org
+  - DOMAIN,cdn.jsdelivr.net
+  - DOMAIN,cdp.cloud.unity3d.com
+
+
+  # Video
+  - DOMAIN-SUFFIX,wistia.com

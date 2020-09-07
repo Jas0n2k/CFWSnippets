@@ -10,6 +10,7 @@ payload:
   - DOMAIN,track.tiara.daum.net
   - DOMAIN-SUFFIX,nelreports.net
   - DOMAIN-SUFFIX,branch.io
+  - DOMAIN,pingma.qq.com
 
   # Marketing
   - DOMAIN-SUFFIX,pardot.com
@@ -25,3 +26,4 @@ payload:
   - DOMAIN-SUFFIX,aaxads.com
   - DOMAIN-SUFFIX,g.doubleclick.net
   - DOMAIN,adservice.google.com
+  - DOMAIN-KEYWORD,duapps

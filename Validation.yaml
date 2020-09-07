@@ -4,3 +4,4 @@ payload:
  - DOMAIN-SUFFIX,comodoca.com
  - DOMAIN-SUFFIX,usertrust.com
  - DOMAIN-SUFFIX,sectigo.com
+ - DOMAIN-KEYWORD,globalsign
