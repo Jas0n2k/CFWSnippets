@@ -5,7 +5,6 @@ payload:
   - DOMAIN-SUFFIX,360.com
   - DOMAIN-SUFFIX,ludashi.com
   # > Alibaba
-  - DOMAIN-SUFFIX,ourdvs.com
   - DOMAIN-SUFFIX,alibaba.com
   - DOMAIN-SUFFIX,alibabausercontent.com
   - DOMAIN-SUFFIX,alicdn.com
@@ -15,6 +14,7 @@ payload:
   - DOMAIN-SUFFIX,autonavi.com
   - DOMAIN-SUFFIX,dingtalk.com
   - DOMAIN-SUFFIX,mxhichina.com
+  - DOMAIN-SUFFIX,ourdvs.com
   - DOMAIN-SUFFIX,soku.com
   - DOMAIN-SUFFIX,taobao.com
   - DOMAIN-SUFFIX,tmall.com
@@ -52,6 +52,7 @@ payload:
   - DOMAIN-SUFFIX,jd.hk
   - DOMAIN-SUFFIX,jdpay.com
   - DOMAIN-SUFFIX,360buyimg.com
+  - DOMAIN-SUFFIX,360safe.com
   
   # > Kingsoft
   - DOMAIN-SUFFIX,iciba.com
@@ -71,6 +72,7 @@ payload:
   - DOMAIN-SUFFIX,miwifi.com
   - DOMAIN-SUFFIX,xiaomi.com
   - DOMAIN-SUFFIX,xiaomi.net
+  - DOMAIN-SUFFIX,miwifi.com
 
   # > NetEase
   - DOMAIN-SUFFIX,163.com
@@ -86,6 +88,7 @@ payload:
   - DOMAIN-SUFFIX,sina.com
   - DOMAIN-SUFFIX,weibo.com
   - DOMAIN-SUFFIX,weibocdn.com
+
   # > Sohu
   - DOMAIN-SUFFIX,sohu.com
   - DOMAIN-SUFFIX,sohucs.com
@@ -111,7 +114,8 @@ payload:
   ## TecentCloud
   - DOMAIN-SUFFIX,cdntip.com
   - DOMAIN-SUFFIX,tencent-cloud.net
-  # Wanmei
+  - DOMAIN,file-igamecj.akamaized.net
+  - DOMAIN-SUFFIX,ovscdns.com
   - DOMAIN-SUFFIX,wanmei.com
 
   # > CDN
@@ -128,6 +132,11 @@ payload:
   - DOMAIN-SUFFIX,eccdnx.com
   - DOMAIN-SUFFIX,bscstorage.net
   - DOMAIN-SUFFIX,pinyuncloud.com
+  
+  - DOMAIN-SUFFIX,staticfile.org
+  - DOMAIN-SUFFIX,jsdelivr.net
+  - DOMAIN,cdp.cloud.unity3d.com
+
   
   # > Image Host
   - DOMAIN-SUFFIX,imgchr.com

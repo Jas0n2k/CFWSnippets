@@ -11,6 +11,7 @@ payload:
   - DOMAIN-SUFFIX,dropboxstatic.com
   ## Mega
   - DOMAIN-SUFFIX,mega.nz
+  - DOMAIN-SUFFIX,mega.co.nz
   
   # Steam
   - DOMAIN-SUFFIX,steamcommunity.com
