@@ -1,3 +1,4 @@
+rule-providers:
   #Remove China.yaml when using Clash For Windows
   #Use CFW-Bypass.yaml as substitute
   AccessibleMedia:
@@ -38,7 +39,7 @@
   ChinaForeign:
     type: http
     interval: 7200
-    url: "https://raw.githubusercontent.com/Jas0n2k/CFWSnippets/master/China.yaml"
+    url: "https://raw.githubusercontent.com/Jas0n2k/CFWSnippets/master/ChinaForeign.yaml"
     behavior: classical
     path: ./RuleSet/ChinaForeign.yaml
 

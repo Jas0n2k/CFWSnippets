@@ -20,6 +20,7 @@ payload:
   # Github
   - DOMAIN,gist.github.com
   - DOMAIN,github-production-release-asset-2e65be.s3.amazonaws.com
+  - DOMAIN,raw.githubusercontent.com
   # Korean
   - DOMAIN-SUFFIX,daum.net
   - DOMAIN-SUFFIX,naver.com

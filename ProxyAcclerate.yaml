@@ -1,7 +1,7 @@
 #Domains listed in this file have slow connections.
 
 payload:
-  - DOMAIN-KEYWORD,github
+  - DOMAIN-SUFFIX,github.com
   - DOMAIN-SUFFIX,lastpass.com
   - DOMAIN-SUFFIX,bit.ly
   - DOMAIN-SUFFIX,crashlytics.com
