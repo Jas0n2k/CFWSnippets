@@ -1,0 +1,127 @@
+  #Remove China.yaml when using Clash For Windows
+  #Use CFW-Bypass.yaml as substitute
+  AccessibleMedia:
+    type: http
+    interval: 7200
+    behavior: classical
+    url: "https://raw.githubusercontent.com/Jas0n2k/CFWSnippets/master/AccessibleMedia.yaml"
+    path: ./RuleSet/
+
+  Ads:
+    type: http
+    behavior: classical
+    url: ""https://raw.githubusercontent.com/Jas0n2k/CFWSnippets/master/Ads.yaml
+    path: ./RuleSet/Ads.yaml
+    interval: 7200
+
+  AlwaysDirect:
+    type: http
+    behavior: classical
+    url: ""https://raw.githubusercontent.com/Jas0n2k/CFWSnippets/master/AlwaysDirect.yaml
+    path: ./RuleSet/AlwaysDirect.yaml
+    interval: 7200
+
+  Apple:
+    type: http
+    interval: 7200
+    url: "https://raw.githubusercontent.com/Jas0n2k/CFWSnippets/master/Apple.yaml"
+    behavior: classical
+    path: ./RuleSet/Apple.yaml  
+  
+  China:
+    type: http
+    interval: 7200
+    url: "https://raw.githubusercontent.com/Jas0n2k/CFWSnippets/master/China.yaml"
+    behavior: classical
+    path: ./RuleSet/China.yaml
+
+  ChinaForeign:
+    type: http
+    interval: 7200
+    url: "https://raw.githubusercontent.com/Jas0n2k/CFWSnippets/master/China.yaml"
+    behavior: classical
+    path: ./RuleSet/ChinaForeign.yaml
+
+  ForcedProxy:
+    type: http
+    behavior: classical
+    path: ./RuleSet/ForcedProxy.yaml
+    url: "https://raw.githubusercontent.com/Jas0n2k/CFWSnippets/master/ForcedProxy.yaml"
+    interval: 7200
+
+  GameServer:
+    type: http
+    url: "https://raw.githubusercontent.com/Jas0n2k/CFWSnippets/master/GameServer.yaml"
+    behavior: classical
+    path: ./RuleSet/GameServer.yaml
+    interval: 7200
+
+  GameStore:
+    type: http
+    url: "https://raw.githubusercontent.com/Jas0n2k/CFWSnippets/master/GameStore.yaml"
+    behavior: classical
+    path: ./RuleSet/GameStore.yaml
+    interval: 7200
+     
+  Google:
+    type: http
+    behavior: classical
+    url: "https://raw.githubusercontent.com/Jas0n2k/CFWSnippets/master/Google.yaml"
+    path: ./RuleSet/Google.yaml
+    interval: 7200
+    
+  GoogleUnbanned:
+    type: http
+    behavior: classical
+    url: "https://raw.githubusercontent.com/Jas0n2k/CFWSnippets/master/GoogleUnbanned.yaml"
+    path: ./RuleSet/GoogleUnbanned.yaml
+    interval: 7200
+    
+  Microsoft:
+    type: http
+    behavior: classical
+    url: "https://raw.githubusercontent.com/Jas0n2k/CFWSnippets/master/Microsoft.yaml"
+    path: ./RuleSet/Microsoft.yaml
+    interval: 7200
+
+  ProxyAcclerate:
+    type: http
+    url: "https://raw.githubusercontent.com/Jas0n2k/CFWSnippets/master/ProxyAcclerate.yaml"
+    behavior: classical
+    path: ./RuleSet/ProxyAcclerate.yaml
+    interval: 7200
+
+  Scholoar:
+    type: http
+    behavior: classical
+    path: "./RuleSet/KnowledgeScholar.yaml"
+    url: "https://raw.githubusercontent.com/Jas0n2k/CFWSnippets/master/Scholar.yaml"
+    interval: 7200 
+
+  SocialMedia:
+    type: http
+    behavior: classical
+    path: ./RuleSet/SocialMedia.yaml
+    url: "https://raw.githubusercontent.com/Jas0n2k/CFWSnippets/master/SocialMedia.yaml"
+    interval: 7200
+
+  SpeedtestIP:
+    type: http
+    url: "https://raw.githubusercontent.com/Jas0n2k/CFWSnippets/master/SpeedtestIP.yaml"
+    behavior: classical
+    interval: 7200
+    path: ./RuleSet/SpeedtestIP.yaml
+
+  StreamingCN:
+    type: http
+    interval: 7200
+    url: "https://raw.githubusercontent.com/Jas0n2k/CFWSnippets/master/StreamingCN.yaml"
+    behavior: classical
+    path: ./RuleSet/StreamingCN.yaml  
+
+  Validation:
+    type: http
+    interval: 7200
+    url: "https://raw.githubusercontent.com/Jas0n2k/CFWSnippets/master/Validation.yaml"
+    behavior: classical
+    path: ./RuleSet/Validation.yaml
