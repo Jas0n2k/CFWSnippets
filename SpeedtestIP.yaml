@@ -1,5 +1,5 @@
 payload:
-  # -> IP
+  # IP
   - DOMAIN-SUFFIX,ipip.net
   - DOMAIN-SUFFIX,ip138.com
   - DOMAIN-SUFFIX,tool.lu
@@ -15,7 +15,7 @@ payload:
   - DOMAIN-KEYWORD,test-ipv6
   - DOMAIN-SUFFIX,whatismyip.com
   - DOMAIN,ip.istatmenus.app
-  # -> Speedtest
+  # Speedtest
   - DOMAIN-KEYWORD,speedtest
   - DOMAIN-SUFFIX,ooklaserver.net
   - DOMAIN-SUFFIX,cdnst.net
@@ -23,3 +23,7 @@ payload:
   - DOMAIN-SUFFIX,netspeedtestmaster.com
   - DOMAIN,speedtest.macpaw.com
   - DOMAIN-SUFFIX,fast.net
+  # Location-Based Service
+  - DOMAIN,gs-loc.apple.com
+  # Whois
+  - DOMAIN,who.is

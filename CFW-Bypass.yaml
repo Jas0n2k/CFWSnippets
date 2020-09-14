@@ -226,7 +226,7 @@ bypass:
   - "*.sohurdc.com"
   - "*.v-56.com"
   # 网易战网
-#  - "*battlenet.com.cn"
+#  - "*battlenet.com.cn" 无效
   # Spark
   - "*.amplitude.com"
   - "*.firebaseio.com"

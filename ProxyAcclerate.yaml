@@ -1,8 +1,9 @@
 #Domains listed in this file have slow connections.
-
 payload:
+  # Github
   - DOMAIN-SUFFIX,github.com
   - DOMAIN-SUFFIX,github.io
+  # Lasspass
   - DOMAIN-SUFFIX,lastpass.com
   - DOMAIN-SUFFIX,bit.ly
   - DOMAIN-SUFFIX,crashlytics.com
@@ -20,6 +21,7 @@ payload:
   - DOMAIN-SUFFIX,python.org
   # Adobe
   - DOMAIN-KEYWORD,adobe
+  - DOMAIN-KEYWORD,typekit
   # Nvidia
   - DOMAIN-SUFFIX,geforce.com
   - DOMAIN-SUFFIX,nvidia.com
@@ -27,7 +29,7 @@ payload:
   # WebCodes
   - DOMAIN,travis-ci.org
   - DOMAIN-SUFFIX,webflow.com
-  # Assets
+  # Assets, CDN & Static
   - DOMAIN-SUFFIX,zdassets.com
   - DOMAIN-SUFFIX,fonts.net
   - DOMAIN-SUFFIX,jquery.com
@@ -36,7 +38,8 @@ payload:
   - DOMAIN,assets.website-files.com
   - DOMAIN,assets.adobedtm.com
   - DOMAIN-SUFFIX,pstatic.net
-  # CDN
+  - DOMAIN-SUFFIX,gravatar.com
+  - DOMAIN-SUFFIX,sstatic.net
   - DOMAIN,accdn.lpsnmedia.net
   - DOMAIN-SUFFIX,bootstrapcdn.com
   - DOMAIN,cdnjs.cloudflare.com
@@ -46,10 +49,12 @@ payload:
   - DOMAIN-SUFFIX,disquscdn.com
   - DOMAIN,cdn.cookielaw.org
   - DOMAIN,vjs.zencdn.net
-
   # CloudFront
   - DOMAIN,d7l9sro0h1dem.cloudfront.net
   - DOMAIN,d3e54v103j8qbb.cloudfront.net
-
   # Akamai
   - DOMAIN,embedwistia-a.akamaihd.net
+  # Unbanned Media
+  - DOMAIN,live.world.kbs.gscdn.com
+  - DOMAIN-SUFFIX,kbs.co.kr
+  - DOMAIN,blog.naverblogwidget.com

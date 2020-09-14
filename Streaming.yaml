@@ -1,0 +1,13 @@
+payload:
+ # Twitch
+  - DOMAIN-KEYWORD,twitch
+  - DOMAIN-SUFFIX,ttvnw.net
+  - DOMAIN-
+ # YouTube
+  - DOMAIN-KEYWORD,youtube
+  - DOMAIN-SUFFIX,googlevideo.com
+  - DOMAIN-SUFFIX,gvt2.com
+  - DOMAIN-SUFFIX,youtu.be
+  # Streaming
+  - DOMAIN-SUFFIX,streamelements.com 
+  

@@ -1,7 +1,7 @@
 payload:
   # CrashAnalysis
   - DOMAIN-SUFFIX,crashlytics.com
-  # Trackers
+  # Telemetry
   - DOMAIN-SUFFIX,marketo.net
   - DOMAIN-SUFFIX,liveperson.com
   - DOMAIN-SUFFIX,rtbasia.com
@@ -11,7 +11,8 @@ payload:
   - DOMAIN-SUFFIX,nelreports.net
   - DOMAIN-SUFFIX,branch.io
   - DOMAIN,pingma.qq.com
-
+  - DOMAIN,SUFFIX,app-measurement.com
+  - DOMAIN-KEYWORD,imrworldwide
   # Marketing
   - DOMAIN-SUFFIX,pardot.com
   - DOMAIN-SUFFIX,drift.com
@@ -22,6 +23,7 @@ payload:
   - DOMAIN-KEYWORD,salesforceliveagent
   - DOMAIN-SUFFIX,adjust.com
   - DOMAIN-KEYWORD,storyblok
+  - DOMAIN,ssl.google-analytics.com
   # Ads
   - DOMAIN-SUFFIX,aaxads.com
   - DOMAIN-SUFFIX,g.doubleclick.net
