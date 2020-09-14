@@ -79,9 +79,6 @@ payload:
   - DOMAIN-SUFFIX,whatbrowser.org
   - DOMAIN-SUFFIX,widevine.com
   - DOMAIN-SUFFIX,x.company
-  - DOMAIN-SUFFIX,youtu.be
-  - DOMAIN-SUFFIX,yt.be
-  - DOMAIN-SUFFIX,ytimg.com
   - DOMAIN-KEYWORD,blogspot
   - DOMAIN-KEYWORD,google
 
