@@ -1,18 +1,21 @@
 payload:
   # > 360
-  - DOMAIN-SUFFIX,qhres.com
-  - DOMAIN-SUFFIX,qhimg.com
+  - DOMAIN-KEYWORD,qhres
+  - DOMAIN-KEYWORD,qhimg
+  - DOMAIN-KEYWORD,qhmsg
   - DOMAIN-SUFFIX,360.com
+  - DOMAIN-SUFFIX,360totalsecurity.com
   - DOMAIN-SUFFIX,ludashi.com
   # > Alibaba
   - DOMAIN-SUFFIX,alibaba.com
   - DOMAIN-SUFFIX,alibabausercontent.com
   - DOMAIN-SUFFIX,alicdn.com
   - DOMAIN-SUFFIX,alikunlun.com
-  - DOMAIN-SUFFIX,alipay.com
+  - DOMAIN-KEYWORD,alipay
   - DOMAIN-SUFFIX,amap.com
   - DOMAIN-SUFFIX,autonavi.com
   - DOMAIN-SUFFIX,dingtalk.com
+  - DOMAIN-SUFFIX,mmstat.com 
   - DOMAIN-SUFFIX,mxhichina.com
   - DOMAIN-SUFFIX,ourdvs.com
   - DOMAIN-SUFFIX,soku.com
@@ -112,6 +115,7 @@ payload:
   - DOMAIN-SUFFIX,cdntip.com
   - DOMAIN-SUFFIX,tencent-cloud.net
   - DOMAIN,file-igamecj.akamaized.net
+  - DOMAIN,p-events-delivery.akamaized.net
   - DOMAIN-SUFFIX,ovscdns.com
   - DOMAIN-SUFFIX,wanmei.com
 
@@ -131,16 +135,17 @@ payload:
   - DOMAIN-SUFFIX,pinyuncloud.com
   - DOMAIN,cdp.cloud.unity3d.com
   - DOMAIN-KEYWORD,bootcdn
+  - DOMAIN-KEYWORD,baomitu
   # > Image Host
   - DOMAIN-SUFFIX,imgchr.com
   - DOMAIN-SUFFIX,ax1x.com
-
   # > Gov
   - DOMAIN-SUFFIX,china-consulate.org
   
   # > Other
   - DOMAIN-SUFFIX,cn
   - DOMAIN-SUFFIX,115.com
+  - DOMAIN-SUFFIX,17ok.com
   - DOMAIN-SUFFIX,360in.com
   - DOMAIN-SUFFIX,51ym.me
   - DOMAIN-SUFFIX,5ewin.com
@@ -166,6 +171,7 @@ payload:
   - DOMAIN-SUFFIX,chuimg.com
   - DOMAIN-SUFFIX,chunyu.mobi
   - DOMAIN-SUFFIX,chushou.tv
+  - DOMAIN-SUFFIX,cnzz.com
   - DOMAIN-SUFFIX,cmbchina.com
   - DOMAIN-SUFFIX,cmbimg.com
   - DOMAIN-SUFFIX,ctobsnssdk.com
@@ -259,12 +265,14 @@ payload:
   # China Foreign Servers #
   - DOMAIN,download.jetbrains.com
   - DOMAIN,images-cn.ssl-images-amazon.com
+  - DOMAIN,safebrowsing.googleapis.com
   # CDN
   - DOMAIN,cdn.staticfile.org
   - DOMAIN-SUFFIX,jsdelivr.net
   - DOMAIN,cdp.cloud.unity3d.com
   - DOMAIN-SUFFIX,staticfile.org
   - DOMAIN,static-cdn.jtvnw.net
+  - DOMAIN-KEYWORD,gravatar
   # Video
   - DOMAIN-SUFFIX,wistia.com
   # Assets
@@ -299,9 +307,10 @@ payload:
   - DOMAIN-SUFFIX,tjupt.org
   - DOMAIN-SUFFIX,totheglory.im
   # Validation Service #
-  - DOMAIN-SUFFIX,digicert.com
-  - DOMAIN-SUFFIX,digicert-cn.com
+  - DOMAIN-KEYWORD,digicert
   - DOMAIN-SUFFIX,comodoca.com
   - DOMAIN-SUFFIX,usertrust.com
   - DOMAIN-SUFFIX,sectigo.com
   - DOMAIN-KEYWORD,globalsign
+  - DOMAIN-SUFFIX,digitalcertvalidation.com
+  - DOMAIN-KEYWORD,ocsp.

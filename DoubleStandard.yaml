@@ -1,0 +1,4 @@
+# Differnt service provided depended on if it is Chinese IP
+payload:
+  # Apple
+  - DOMAIN-SUFFIX,ls.apple.com

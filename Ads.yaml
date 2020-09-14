@@ -29,3 +29,4 @@ payload:
   - DOMAIN-SUFFIX,g.doubleclick.net
   - DOMAIN,adservice.google.com
   - DOMAIN-KEYWORD,duapps
+  - DOMAIN-KEYWORD,umeng

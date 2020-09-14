@@ -59,7 +59,9 @@ payload:
   # > Migu Video
   - DOMAIN-SUFFIX,cmvideo.cn
   - DOMAIN-SUFFIX,miguvideo.com
-
+  # Zhanqi
+  - DOMAIN-KEYWORD,zhanqi
+  - DOMAIN-SUFFIX,videojj.com
   # (Music)
   # > QQ Music
   - DOMAIN-SUFFIX,music.qq.com
