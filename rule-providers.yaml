@@ -4,7 +4,7 @@ rule-providers:
   Ads:
     type: http
     behavior: classical
-    url: ""https://raw.githubusercontent.com/Jas0n2k/CFWSnippets/master/Ads.yaml
+    url: "https://raw.githubusercontent.com/Jas0n2k/CFWSnippets/master/Ads.yaml"
     path: ./RuleSet/Ads.yaml
     interval: 7200
 
@@ -67,7 +67,7 @@ rule-providers:
   Scholoar:
     type: http
     behavior: classical
-    path: "./RuleSet/KnowledgeScholar.yaml"
+    path: ./RuleSet/KnowledgeScholar.yaml
     url: "https://raw.githubusercontent.com/Jas0n2k/CFWSnippets/master/Scholar.yaml"
     interval: 7200 
 
@@ -90,4 +90,4 @@ rule-providers:
     interval: 7200
     url: "https://raw.githubusercontent.com/Jas0n2k/CFWSnippets/master/StreamingCN.yaml"
     behavior: classical
-    path: ./RuleSet/StreamingCN.yaml  
+    path: ./RuleSet/StreamingCN.yaml
