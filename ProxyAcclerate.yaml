@@ -3,6 +3,7 @@ payload:
   # Github
   - DOMAIN-SUFFIX,github.com
   - DOMAIN-SUFFIX,github.io
+  - DOMAIN-SUFFIX,githubassets.com
   # Lasspass
   - DOMAIN-SUFFIX,lastpass.com
   - DOMAIN-SUFFIX,bit.ly

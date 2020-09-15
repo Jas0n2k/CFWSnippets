@@ -30,3 +30,5 @@ payload:
   - DOMAIN,adservice.google.com
   - DOMAIN-KEYWORD,duapps
   - DOMAIN-KEYWORD,umeng
+  - DOMAIN-KEYWORD,3lift
+  - DOMAIN-KEYWORD,triplelift

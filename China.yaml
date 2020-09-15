@@ -27,6 +27,7 @@ payload:
   # > Baidu
   - DOMAIN-SUFFIX,baidu.com
   - DOMAIN-SUFFIX,baidubcr.com
+  - DOMAIN-SUFFIX,bdimg.com
   - DOMAIN-SUFFIX,bdstatic.com
   - DOMAIN-SUFFIX,yunjiasu-cdn.net
   # > ByteDance
@@ -266,13 +267,17 @@ payload:
   - DOMAIN,download.jetbrains.com
   - DOMAIN,images-cn.ssl-images-amazon.com
   - DOMAIN,safebrowsing.googleapis.com
-  # CDN
+  # CDN & Static
   - DOMAIN,cdn.staticfile.org
-  - DOMAIN-SUFFIX,jsdelivr.net
   - DOMAIN,cdp.cloud.unity3d.com
   - DOMAIN-SUFFIX,staticfile.org
   - DOMAIN,static-cdn.jtvnw.net
   - DOMAIN-KEYWORD,gravatar
+  # JS
+  - DOMAIN-SUFFIX,hsforms.net
+  - DOMAIN-SUFFIX,jsdelivr.net
+  - DOMAIN-SUFFIX,hs-scripts.com
+  - DOMAIN-SUFFIX,hs-banner.com
   # Video
   - DOMAIN-SUFFIX,wistia.com
   # Assets
