@@ -33,3 +33,5 @@ payload:
   - DOMAIN-KEYWORD,umeng
   - DOMAIN-KEYWORD,3lift
   - DOMAIN-KEYWORD,triplelift
+  # Hot Updates
+  - DOMAIN-KEYWORD,launchdarkly
