@@ -13,6 +13,7 @@ payload:
   - DOMAIN,pingma.qq.com
   - DOMAIN,SUFFIX,app-measurement.com
   - DOMAIN-KEYWORD,imrworldwide
+  - DOMAIN-KEYWORD,demdex
   # Marketing
   - DOMAIN-SUFFIX,pardot.com
   - DOMAIN-SUFFIX,drift.com

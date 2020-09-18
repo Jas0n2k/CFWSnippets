@@ -28,6 +28,10 @@ payload:
   - DOMAIN-SUFFIX,battlenet.com
   - DOMAIN-SUFFIX,blizzard.com
 
+  ## Ubi
+  - DOMAIN-SUFFIX,ubi.com
+  - DOMAIN-KEYWORD,ubistatic
+
   ## Sony
   - DOMAIN-KEYWORD,playstation
   - DOMAIN-SUFFIX,sony.com
