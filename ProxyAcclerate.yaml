@@ -32,6 +32,7 @@ payload:
   - DOMAIN,travis-ci.org
   - DOMAIN-SUFFIX,webflow.com
   # Assets, CDN & Static
+  - DOMAIN-SUFFIX,bjango.com
   - DOMAIN-SUFFIX,zdassets.com
   - DOMAIN-SUFFIX,fonts.net
   - DOMAIN-SUFFIX,jquery.com
