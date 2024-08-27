@@ -1,0 +1,33 @@
+payload:
+  # ChatGPT
+  - DOMAIN-SUFFIX,ai.com
+  - DOMAIN-SUFFIX,openai.com
+  - DOMAIN-SUFFIX,auth0.com
+  - DOMAIN-SUFFIX,challenges.cloudflare.com
+  - DOMAIN-SUFFIX,chatgpt.com
+  - DOMAIN-SUFFIX,oaistatic.com
+  # ChatGPT Payment
+  - DOMAIN-SUFFIX,stripe.com
+  # ChatGPT Register
+  - DOMAIN-SUFFIX,arkoselabs.com
+  - DOMAIN-SUFFIX,openaiapi-site.azureedge.net
+
+  # Google Gemini
+  - DOMAIN-SUFFIX,bard.google.com
+  - DOMAIN,gemini.google.com
+  - DOMAIN,makersuite.google.com
+  - DOMAIN,generativelanguage.googleapis.com
+  - DOMAIN,alkalimakersuite-pa.clients6.google.com
+  - DOMAIN,ai.google.dev
+
+  # Android Studio Bot
+  - DOMAIN,aida.googleapis.com
+
+  #cloude
+  - DOMAIN-SUFFIX,claude.ai
+  - DOMAIN-SUFFIX,anthropic.com
+  - DOMAIN-SUFFIX,hsforms.net
+
+  # Jetbrains AI Assistant
+  - DOMAIN-SUFFIX,grazie.aws.intellij.net
+  - DOMAIN-SUFFIX,grazie.ai
