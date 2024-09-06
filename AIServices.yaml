@@ -6,9 +6,9 @@ payload:
   - DOMAIN-SUFFIX,challenges.cloudflare.com
   - DOMAIN-SUFFIX,chatgpt.com
   - DOMAIN-SUFFIX,oaistatic.com
-  # ChatGPT Payment
+  ## ChatGPT Payment
   - DOMAIN-SUFFIX,stripe.com
-  # ChatGPT Register
+  ## ChatGPT Register
   - DOMAIN-SUFFIX,arkoselabs.com
   - DOMAIN-SUFFIX,openaiapi-site.azureedge.net
 
@@ -27,6 +27,7 @@ payload:
   - DOMAIN-SUFFIX,claude.ai
   - DOMAIN-SUFFIX,anthropic.com
   - DOMAIN-SUFFIX,hsforms.net
+  - DOMAIN-SUFFIX,claudeusercontent.com
 
   # Jetbrains AI Assistant
   - DOMAIN-SUFFIX,grazie.aws.intellij.net
