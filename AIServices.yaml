@@ -16,9 +16,14 @@ payload:
   - DOMAIN-SUFFIX,bard.google.com
   - DOMAIN,gemini.google.com
   - DOMAIN,makersuite.google.com
+  - DOMAIN,content-developerprofiles-pa.googleapis.com
   - DOMAIN,generativelanguage.googleapis.com
   - DOMAIN,alkalimakersuite-pa.clients6.google.com
   - DOMAIN,ai.google.dev
+  - DOMAIN,colab.research.google.com
+
+  # Google Gemini Android app
+  - DOMAIN-SUFFIX,proactivebackend-pa.googleapis.com
 
   # Android Studio Bot
   - DOMAIN,aida.googleapis.com
