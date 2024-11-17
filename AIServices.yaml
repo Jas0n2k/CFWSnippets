@@ -14,19 +14,28 @@ payload:
 
   # Google Gemini
   - DOMAIN-SUFFIX,bard.google.com
-  - DOMAIN,gemini.google.com
-  - DOMAIN,makersuite.google.com
-  - DOMAIN,content-developerprofiles-pa.googleapis.com
-  - DOMAIN,generativelanguage.googleapis.com
-  - DOMAIN,alkalimakersuite-pa.clients6.google.com
-  - DOMAIN,ai.google.dev
+  - DOMAIN-SUFFIX,gemini.google.com
   - DOMAIN,colab.research.google.com
 
-  # Google Gemini Android app
+  # Google Generative Language API
+  - DOMAIN,content-developerprofiles-pa.googleapis.com
   - DOMAIN-SUFFIX,proactivebackend-pa.googleapis.com
+  - DOMAIN-SUFFIX,generativelanguage.googleapis.com
+  - DOMAIN-SUFFIX,geller-pa.googleapis.com
+
+  # Google AI Studio
+  - DOMAIN,ai.google.dev
+  - DOMAIN-SUFFIX,makersuite.google.com
+  - DOMAIN,alkalicore-pa.clients6.google.com
+  - DOMAIN,alkalimakersuite-pa.clients6.google.com
+  - DOMAIN-SUFFIX,generativeai.google
 
   # Android Studio Bot
   - DOMAIN,aida.googleapis.com
+
+   # Google DeepMind
+   - DOMAIN-SUFFIX,deepmind.com
+   - DOMAIN-SUFFIX,deepmind.google
 
   #cloude
   - DOMAIN-SUFFIX,claude.ai
