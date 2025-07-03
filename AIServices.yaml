@@ -33,11 +33,11 @@ payload:
   # Android Studio Bot
   - DOMAIN,aida.googleapis.com
 
-   # Google DeepMind
-   - DOMAIN-SUFFIX,deepmind.com
-   - DOMAIN-SUFFIX,deepmind.google
+  # Google DeepMind
+  - DOMAIN-SUFFIX,deepmind.com
+  - DOMAIN-SUFFIX,deepmind.google
 
-  #cloude
+  # Claude
   - DOMAIN-SUFFIX,claude.ai
   - DOMAIN-SUFFIX,anthropic.com
   - DOMAIN-SUFFIX,hsforms.net
@@ -46,3 +46,14 @@ payload:
   # Jetbrains AI Assistant
   - DOMAIN-SUFFIX,grazie.aws.intellij.net
   - DOMAIN-SUFFIX,grazie.ai
+
+  # Cursor
+  - DOMAIN-SUFFIX,cursor.sh
+  - DOMAIN-SUFFIX,cursorapi.com
+  - DOMAIN-SUFFIX,cursor.com
+
+  # Trae
+  - DOMAIN,mon-va.byteoversea.com
+  - DOMAIN-SUFFIX,marscode.com
+  - DOMAIN-SUFFIX,marscode.cn
+  - DOMAIN-SUFFIX,bytednsdoc.com
